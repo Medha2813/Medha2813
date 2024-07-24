@@ -49,6 +49,7 @@
   </a>
 </p>
 
+<!-- Remove or comment out the section with the error if needed
 <p align="center">
   <a href="https://github.com/medhaswidyanamina">
     <img src="https://github-readme-stats.vercel.app/api?username=medhaswidyanamina&show_icons=true&locale=en" alt="Dyanamina Medhaswi's GitHub Stats" />
@@ -58,3 +59,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=medhaswidyanamina&" alt="GitHub Streak" />
 </p>
+-->
